@@ -481,6 +481,7 @@ const columRender = <T, U = any>({
         >
           {renderDom.map((optionDom) => (
             <div
+              key={optionDom.key}
               style={{
                 marginRight: 8,
               }}
