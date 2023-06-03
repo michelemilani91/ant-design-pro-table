@@ -1,8 +1,8 @@
 {
   "name": "@ant-design/pro-table",
-  "version": "1.2.9",
+  "version": "1.2.9-fixed",
   "description": "🏆 Use Ant Design Table like a Pro!",
-  "repository": "https://github.com/ant-design/pro-table",
+  "repository": "https://github.com/michelemilani91/ant-design-pro-table",
   "license": "MIT",
   "main": "lib/index.js",
   "module": "es/index.js",
